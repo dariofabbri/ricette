@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.titolo }}</title>
+</head>
+
+<body>
+    <h1>{{ page.titolo }}</h1>
+    <section>
+        <h2>Ingredienti</h2>
+        <p>Per {{ page.persone }} persone</p>
+        <ul>
+            {% for item in page.ingredienti %}
+            <li>{{ item.ing }} <em>{{ item.qta }}</em></li>
+            {% end for %}
+        </ul>
+    </section>
+    <section>
+        {{ content }}
+    </section>
+</body>
+
+</html>
