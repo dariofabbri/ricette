@@ -14,11 +14,11 @@ Site pages filter secondo sort
 {{ site.pages | where:"categoria","secondo" | sort:"titolo" }}
 
 Aaaaa
-{% for item in site.pages | where: "categoria", "primo" | sort: "titolo" %}
+{% for item in site.pages | where:"categoria","primo" | sort:"titolo" %}
 - {{ item.name }} {{ item.url }}
 {% endfor %}
 
 Bbbbb
-{% for item in site.pages | where: "categoria", "secondo" | sort: "titolo" %}
+{% for item in site.pages | where:"categoria","secondo" | sort:"titolo" %}
 - {{ item.name }} {{ item.url }}
 {% endfor %}
