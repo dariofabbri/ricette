@@ -9,7 +9,7 @@
 
 <body>
     <h1>{{ page.titolo }}</h1>
-    <section>
+    <section class="ingredienti">
         <h2>Ingredienti</h2>
         <p>Per {{ page.persone }} persone</p>
         <ul>
@@ -18,7 +18,7 @@
             {% endfor %}
         </ul>
     </section>
-    <section>
+    <section class="preparazione">
         <h2>Preparazione</h2>
         {{ content }}
     </section>

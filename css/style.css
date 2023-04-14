@@ -12,3 +12,11 @@ body {
     line-height: 1.45;
     padding: .25rem;
 }
+
+h1, h2 {
+    color: #5f34a3;
+}
+
+section.preparazione {
+    text-justify: auto;
+}

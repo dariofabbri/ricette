@@ -1,6 +1,7 @@
 ---
-titolo: Peposo
+titolo: Paposo
 persone: 5
+categoria: primo
 ingredienti:
   - ing: Carne da spezzatino
     qta: 1500 g
