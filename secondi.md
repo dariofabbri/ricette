@@ -1,6 +1,7 @@
 ---
 titolo: Secondi piatti
-categoria: secondo
+filtro-chiave: categoria
+filtro-valore: secondo
 layout: list
 ---
 {% include list.md %}

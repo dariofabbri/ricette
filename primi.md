@@ -1,6 +1,7 @@
 ---
 titolo: Primi piatti
-categoria: primo
+filtro-chiave: categoria
+filtro-valore: primo
 layout: list
 ---
 {% include list.md %}
