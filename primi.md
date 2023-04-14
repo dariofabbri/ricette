@@ -1,9 +1,6 @@
 ---
 titolo: Primi piatti
+categoria: primo
 layout: list
 ---
-
-{% assign pages = site.pages | where:"categoria","primo" | sort:"titolo" %}
-{% for page in pages %}
-- [{{ page.titolo }}](/{{ site.github.repository_name }}/{{ page.url }})
-{% endfor %}
+{% include list.md %}
