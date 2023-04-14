@@ -1,4 +1,5 @@
 ---
+titolo: Ricette
 layout: index
 ---
 # Ricette
