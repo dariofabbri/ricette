@@ -1,22 +1,27 @@
-# Torta di mele
-
-## Ingredienti
-
-Per uno stampo da 22 cm di diametro
-
-- *Mele* 600 g (il peso delle mele pulite e affettate)
-- *Farina 00* 250 g
-- *Zucchero* 200 g
-- *Burro* 100 g
-- *Latte intero* 150 g (a temperatura ambiente)
-- *Uova* 2
-- *Limoni* 1
-- *Lievito in polvere per dolci* 16 g
-- *Cannella*
-- *Sale*
-
-
-## Preparazione
+---
+titolo: Torta di mele
+porzioni: Per uno stampo da 22 cm di diametro
+categoria: dolce
+ingredienti:
+  - ing: Mele
+    qta: 600 g (il peso delle mele pulite e affettate)
+  - ing: Farina 00
+    qta: 250 g
+  - ing: Zucchero
+    qta: 200 g
+  - ing: Burro
+    qta: 100 g
+  - ing: Latte intero
+    qta: 150 g (a temperatura ambiente)
+  - ing: Uova
+    qta: 2
+  - ing: Limoni
+    qta: 1
+  - ing: Lievito in polvere per dolci
+    qta: 16 g
+  - ing: Cannella
+  - ing: Sale
+---
 
 Accendi il forno statico a 180 °C.
 

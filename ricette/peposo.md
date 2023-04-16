@@ -1,6 +1,6 @@
 ---
 titolo: Peposo
-persone: 5
+porzioni: Per 5 persone
 categoria: secondo
 ingredienti:
   - ing: Carne da spezzatino

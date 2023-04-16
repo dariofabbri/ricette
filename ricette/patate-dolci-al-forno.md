@@ -1,6 +1,6 @@
 ---
 titolo: Patate dolci americane al forno
-persone: 6
+porzioni: Per 6 persone
 categoria: contorno
 ingredienti:
   - ing: Patate dolci

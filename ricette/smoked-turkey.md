@@ -1,6 +1,6 @@
 ---
 titolo: Smoked turkey
-persone: circa 10/12
+porzioni: Per circa 10/12 persone
 categoria: secondo
 sezioni:
   - nome: Tacchino

@@ -1,43 +1,54 @@
-# Tacchino del Ringraziamento
+---
+titolo: Tacchino del Ringraziamento
+porzioni: Per circa 10/12 persone
+categoria: secondo
+sezioni:
+  - nome: Tacchino
+    ingredienti:
+      - ing: Tacchino intero
+        qta: 6/7 kg
+      - ing: Burro
+      - ing: Sale
+      - ing: Pepe
+      - ing: Spago da cucina
+  - nome: Ripieno
+    ingredienti:
+      - ing: Cipolla
+        qta: 3
+      - ing: Sedano
+        qta: 500 g
+      - ing: Aglio
+      - ing: Burro
+        qta: 200 g
+      - ing: Salsicce
+        qta: 600 g
+      - ing: Castagne
+        qta: 600 g
+      - ing: Pane
+        qta: 600 g
+      - ing: Brodo
+        qta: 1 l
+      - ing: Uova
+        qta: 2
+      - ing: Vino bianco da cucina
+      - ing: Salvia
+      - ing: Prezzemolo
+  - nome: Gravy sauce
+    ingredienti:
+      - ing: Farina
+      - ing: Burro
+      - ing: Vino bianco da cucina
+      - ing: Brodo
+  - nome: Cranberry sauce
+    ingredienti:
+      - ing: Ribes
+        qta: 500 g
+      - ing: Zucchero
+        qta: 250 g
+      - ing: Scorza d'arancia
+---
 
-## Ingredienti
-
-Per circa 10 persone
-
-Tacchino
-- *Tacchino intero* 6/7 kg
-- *Burro*
-- *Sale*
-- *Pepe*
-- *Spago da cucina*
-
-Ripieno
-- *Cipolla* 3
-- *Sedano* 500 g
-- *Aglio*
-- *Burro* 200 g
-- *Salsicce* 600 g
-- *Castagne* 600 g
-- *Pane* 600 g
-- *Brodo* 1 lt
-- *Uova* 2
-- *Vino bianco da cucina*
-- *Salvia*
-- *Prezzemolo*
-
-Gravy sauce
-- *Farina*
-- *Burro*
-- *Vino bianco da cucina*
-- *Brodo*
-
-Cranberry sauce
-- *Ribes* 500 g
-- *Zucchero* 250 g
-- *Scorza d'arancia*
-
-
-## Preparazione del ripieno
+### Preparazione del ripieno
 
 Il giorno prima, taglia a cubetti il pane e lascialo in una teglia - non coperto - ad asciugarsi.
 
@@ -54,7 +65,7 @@ Nella pentola ancora sul fuoco metti un po' di vino e riduci il volume di circa 
 Sbatti le uova in circa 500 ml di brodo (non caldo) ed aggiungi il tutto al composto del ripieno, aggiustando di sale e pepe. Se il risultato finale fosse ancora troppo asciutto, aggiungi poco alla volta altro brodo fino a bagnare tutto il pane.
 
 
-## Preparazione del tacchino
+### Preparazione del tacchino
 
 Il tacchino deve essere già pulito, con le due aperture libere e senza interiora da estrarre.
 
@@ -79,13 +90,13 @@ Durante la cottura periodicamente: spennella con i succhi della cottura (ed even
 Inserisci le sonde nella parte più spessa della carne, vicino alle cosce, senza toccare l'osso. La temperatura dovrà arrivare a circa 72-73 °C.
 
 
-## Il ripieno avanzato
+### Il ripieno avanzato
 
 Metti il ripieno avanzato in una casseruola e coprilo con della carta stagnola imburrata nel lato inferiore.
 
 Cuocilo per circa 30 minuti al forno, poi rimuovi la carta stagnola e cuocilo per altri 10 minuti.
 
-## La gravy sauce
+### La gravy sauce
 
 Prendi il fondo di cottura del tacchino e tienilo da parte. Lascia depositare per circa 15 minuti, facendo in modo che la parte più grassa si separi dal resto e venga a galle.
 
@@ -102,7 +113,7 @@ Regola di sale e pepe.
 Servila ancora tiepida affinché sia possibile versarla.
 
 
-## La cranberry sauce
+### La cranberry sauce
 
 Metti circa 350 ml di acqua in un tegame sul fuoco. Quando la temperatura si sarà avvicinata all'ebollizione, aggiungi lo zucchero e scioglilo bene.
 
