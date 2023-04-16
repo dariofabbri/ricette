@@ -12,11 +12,25 @@
     <section class="ingredienti">
         <h2>Ingredienti</h2>
         <p>Per {{ page.persone }} persone</p>
+
+        {% if page.ingredienti %}
         <ul>
             {% for item in page.ingredienti %}
             <li>{{ item.ing }} <em>{{ item.qta }}</em></li>
             {% endfor %}
         </ul>
+        {% endif %}
+
+        {% if page.sezioni %}
+        {% for sezione in page.sezioni %}
+        <h3>sezione.nome</h3>
+        <ul>
+            {% for item in sezione.ingredienti %}
+            <li>{{ item.ing }} <em>{{ item.qta }}</em></li>
+            {% endfor %}
+        </ul>
+        {% endfor %}
+        {% endif %}
     </section>
     <section class="preparazione">
         <h2>Preparazione</h2>

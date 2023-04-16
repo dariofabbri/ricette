@@ -2,8 +2,6 @@
 titolo: Ricette
 layout: index
 ---
-# Ricette
-
 ## Categorie
 
 - [Primi piatti](primi)
