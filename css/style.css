@@ -20,3 +20,14 @@ h1, h2 {
 section.preparazione {
     text-justify: auto;
 }
+
+section.lista p {
+    margin: 0;
+}
+
+a:hover,
+a:link,
+a:active,
+a:visited {
+    color: inherit;
+}

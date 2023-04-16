@@ -23,7 +23,7 @@
 
         {% if page.sezioni %}
         {% for sezione in page.sezioni %}
-        <h3>sezione.nome</h3>
+        <h3>{{ sezione.nome }}</h3>
         <ul>
             {% for item in sezione.ingredienti %}
             <li>{{ item.ing }} <em>{{ item.qta }}</em></li>
