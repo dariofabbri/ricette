@@ -19,6 +19,7 @@ h1, h2 {
 
 section.preparazione {
     text-justify: auto;
+    text-align: justify;
 }
 
 section.lista p {
