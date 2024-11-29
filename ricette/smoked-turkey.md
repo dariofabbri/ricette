@@ -73,11 +73,21 @@ sezioni:
 
 ### Marinatura (brining)
 
-Le carni del tacchino tendono ad essere insipide. Un modo per ovviare al problema è quello di marinare l'animale in una salamoia aromatizzata.
+Le carni del tacchino tendono ad essere insipide. Un modo per ovviare al
+problema è quello di marinare l'animale in una salamoia aromatizzata.
 
-La base è, appunto, una salamoia preparata nel rapporto di 250 g di sale ogni 4 litri di acqua. A questa si aggiungono le scorze delle arance, il succo di queste spremuto in maniera grossolana, il succo di mela e le spezie.
+La base è, appunto, una salamoia preparata nel rapporto di 250 g di sale ogni 4
+litri di acqua. A questa si aggiungono le scorze delle arance, il succo di
+queste spremuto in maniera grossolana, il succo di mela e le spezie.
 
-Scalda l'acqua, senza portarla ad ebollizione, per consentire agli aromi di infondersi. Quando l'acqua si sarà raffreddata, coprire interamente (per quanto possibile) il tacchino e riporre in frigo per almeno 24 ore.
+Scalda l'acqua, senza portarla ad ebollizione, per consentire agli aromi di
+infondersi. Quando l'acqua si sarà raffreddata, ricopri interamente (per quanto
+possibile) il tacchino e riponilo in frigo per almeno 24 ore.
+
+Attenzione: le quantità qui indicate permettono di ricoprire praticamente tutto
+il tacchino, se posto all'interno della solita pentola (quella più stretta ed
+alta). Se si decidesse di utilizzare un recipiente più grande, sarà necessario
+aumentare le dosi in proporzione.
 
 
 ### Preparazione del ripieno
@@ -116,7 +126,7 @@ Cospargi di sale e pepe l'interno del tacchino. E' possibile utilizzare altre sp
 
 Passa delicatamente del burro ammorbidito sotto la pelle del tacchino, entrando con le dita in prossimità delle aperture e massaggiando senza strappare la pelle.
 
-Inietta il liquido preparato in precedenza nelle cosce e, in particolare, nel petto del tacchino. Attenzione a far penetrare per intero l'ago, facendo attenzione a che non rimanga fuori nessuno dei fori (ve ne possono essere alcuni lungo l'ago stesso). Iniettare lentamente piccole quantità, per evitare una fuoriuscita eccessiva di liquido.
+Inietta il liquido preparato in precedenza nelle cosce e, in particolare, nel petto del tacchino. Attenzione a far penetrare per intero l'ago, facendo attenzione a che non rimanga fuori nessuno dei fori (ve ne possono essere alcuni lungo l'ago stesso). Bisogna procedere lentamente iniettandp piccole quantità, per evitare una fuoriuscita eccessiva di liquido.
 
 Inserisci il ripieno nella cavità principale del tacchino, utilizzando una dose generosa di composto ma tenendo presente che il ripieno un po' si espande durante la cottura. Farcisci anche, per quanto possibile, attraverso l'apertura del collo.
 
