@@ -92,8 +92,8 @@ aumentare le dosi in proporzione.
 
 ### Preparazione del ripieno
 
-Il giorno prima, taglia a cubetti il pane e lascialo in una teglia - non coperto
-- ad asciugarsi.
+Il giorno prima, taglia a cubetti il pane e lascialo in una teglia - non coperto -
+ad asciugarsi.
 
 Arrostisci le castagne, poi sbucciale e mettile da parte.
 
