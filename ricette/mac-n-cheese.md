@@ -30,7 +30,8 @@ filo.
 Continua ad aggiungere il latte poco alla volta, mantenendo la temperatura al
 filo dell'ebollizione e girando continuamente. Può essere utile alzare un po' il
 calore, sempre però facendo attenzione a non esagerare (pena il rischio che la
-salsa si attacchi al fondo del tegame e che si formino dei grumi).
+salsa si attacchi al fondo del tegame e che si formino dei grumi). Aggiungi la
+noce moscata ed il pepe.
 
 Una volta pronta la besciamella, abbassando al minimo il calore, aggiungere poco
 alla volta le fettine di cheddar facendole a pezzi. Ricordati di lasciarne
