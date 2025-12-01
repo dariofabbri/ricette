@@ -10,10 +10,14 @@ ingredienti:
   - ing: Rosmarino
   - ing: Sale
   - ing: Pepe
+  - ing: Paprika (opzionale)
 ---
 
-Taglia le patate in spicchi abbastanza grandi (ad esempio, dividi ciascun tubero in cilindri di circa 5 cm di altezza, e poi ciascuno di questi ancora prima a metà e poi in tre parti).
+Taglia le patate in spicchi abbastanza grandi (ad esempio, dividi ciascun tubero
+in cilindri di circa 5 cm di altezza, e poi ciascuno di questi ancora prima a
+metà e poi in tre parti).
 
-Metti le patate nella teglia e condiscile con olio, sale, pepe, aglio in polvere e rosmarino.
+Metti le patate nella teglia e condiscile con olio, sale, pepe, aglio in polvere
+e rosmarino. Se volete potete aggiungere anche della paprika.
 
 Cuoci per circa 35-45 minuti fino a che non cominciano ad abbrustolirsi leggermente.

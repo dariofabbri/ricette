@@ -155,7 +155,7 @@ pelle.
 Inietta il liquido preparato in precedenza nelle cosce e, in particolare, nel
 petto del tacchino. Attenzione a far penetrare per intero l'ago, facendo
 attenzione a che non rimanga fuori nessuno dei fori (ve ne possono essere alcuni
-lungo l'ago stesso). Bisogna procedere lentamente iniettandp piccole quantità,
+lungo l'ago stesso). Bisogna procedere lentamente iniettando piccole quantità,
 per evitare una fuoriuscita eccessiva di liquido.
 
 Inserisci il ripieno nella cavità principale del tacchino, utilizzando una dose
@@ -174,7 +174,7 @@ Inserisci le sonde del termometro nella parte più spessa della carne, vicino
 alle cosce, senza toccare l'osso.
 
 Metti il tacchino nel barbecue ed affumica sino a che la temperatura non sarà
-arrivata a circa 70 °C.
+arrivata a circa 72 °C.
 
 
 ### Il ripieno avanzato
@@ -190,7 +190,7 @@ per altri 10 minuti.
 
 Prendi il fondo di cottura del tacchino e tienilo da parte. Lascia depositare
 per circa 15 minuti, facendo in modo che la parte più grassa si separi dal resto
-e venga a galle.
+e venga a galla.
 
 Metti una pentola sul fuoco e riscalda una parte del grasso separatosi dal fondo
 di cottura. Ne basta poco, diciamo circa un mestolo, attenzione a non esagerare
@@ -201,10 +201,9 @@ colore moderatamente brunito.
 
 Aggiungi del vino progressivamente, facendolo ritirare.
 
-Aggiungi la parte magra dei fondi di cottura messi da parte.
-
-Aggiungi gradualmente del brodo e fai cuocere il tutto fino ad ottenere una
-crema né troppo liquida né troppo densa.
+Aggiungi una piccola parte della parte magra dei fondi e poi prosegui
+aggiungendo gradualmente del bridi, facendo cuocere il tutto fino ad ottenere
+una crema né troppo liquida né troppo densa.
 
 Regola di sale e pepe.
 
